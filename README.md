@@ -1,2 +1,2 @@
-# bhp-website
-Botswana Harvard atnership Website
+# bhp.org.bw
+Botswana Harvard AIDS Institute Partnership

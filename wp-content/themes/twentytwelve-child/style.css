@@ -1,0 +1,26 @@
+/*
+ Theme Name:   Twenty Twelve Child Theme
+ Theme URI:    http://botswanaharvardpartnership.org
+ Description:  Twenty Twelve Child Theme
+ Author:       LR
+ Author URI:   http://botswanaharvardpartnership.org
+ Template:     twentytwelve
+ Version:      1.0.0
+ 
+*/
+
+
+
+/*Double Line  at the Bottom of the website */
+-------------------------------------------------------------- */
+.site-content article {
+	border-bottom: none;
+	
+}
+
+*/
+
+
+/* Footer */
+-------------------------------------------------------------- */
+

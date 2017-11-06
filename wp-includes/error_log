@@ -1,0 +1,3 @@
+[31-Dec-2016 05:48:58 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/bhporgbw/public_html/wp-includes/registration-functions.php on line 7
+[31-Dec-2016 05:48:59 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/bhporgbw/public_html/wp-includes/registration-functions.php on line 7
+[04-Jan-2017 16:11:15 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/bhporgbw/public_html/wp-includes/registration-functions.php on line 7
